@@ -1,31 +1,33 @@
-First Compose Project — Setup Walkthrough
-Student
+**First Compose Project — Setup Walkthrough**
 
+Student : 
 Varshitha
+
 Android App Development Lab
 
-Project Description
+**Project Description**
 
-This project verifies Android Studio environment setup and successful execution of a Jetpack Compose application.
+->This project verifies Android Studio environment setup and successful execution of a Jetpack Compose application.
 
-The app displays the default Compose greeting screen using Kotlin UI instead of XML layouts.
+->The app displays the default Compose greeting screen using Kotlin UI instead of XML layouts.
 
-How to Run
 
-Install Android Studio
+**How to Run**
 
-Open the project folder
+->Install Android Studio
 
-Let Gradle Sync complete
+->Open the project folder
 
-Run on emulator (Pixel 5 recommended)
+->Let Gradle Sync complete
 
-What This Proves
+->Run on emulator (Pixel 6 recommended)
 
-Project creation successful
+**What This Proves**
 
-Emulator connection works
+->Project creation successful
 
-Compose UI renders correctly
+->Emulator connection works
+
+->Compose UI renders correctly
 
 
