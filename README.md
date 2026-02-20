@@ -28,4 +28,4 @@ Emulator connection works
 
 Compose UI renders correctly
 
-Screenshots
+
